@@ -1,0 +1,27 @@
+*{
+    background-color: 	#ffffff;
+}
+h1{
+    text-align: center;
+    color: #be2a2a;
+    font-family: "lucida bright";
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color:  #be2a2a;
+    font-family: "copperplate";
+}
+#texto{
+    font-size: 20px;
+    color:  #080000;
+    font-family: "times new roman";
+}
+#LAR{
+    color:  #080000;
+        font-family: "verdana";
+}
